@@ -1,0 +1,13 @@
+(function(){
+	var scriptElm = (document.currentScript || (function(){
+		var nodeList = document.getElementsByTagName('script');
+		return nodeList.item(nodeList.length - 1);
+	}()));
+	window.addEventListener('load', function(event){
+		var ifr = document.createElement('iframe');
+		ifr.setAttribute('src','/photo/10001/play?type=m');
+		ifr.setAttribute('allowfullscreen',true);
+		ifr.setAttribute('style','width:430px;height:365px;border:none;position:static;display:block;visibility:visible;margin:0 auto;padding:0;overflow:hidden');
+		$(scriptElm).after(ifr);
+	});
+})();

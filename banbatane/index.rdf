@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="/css/user.xsl" type="text/xsl" media="screen"?>
+<rdf:RDF
+  xmlns="http://purl.org/rss/1.0/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:image="http://purl.org/rss/1.0/modules/image/"
+  xml:lang="ja">
+<channel rdf:about="https://blog.goo.ne.jp/banbatane/index.rdf">
+  <title>＜シルクロードを点で繋ぐ旅＞＜朝顔・君子蘭・竹など＞</title>
+  <link>https://blog.goo.ne.jp/banbatane?fm=rss</link>
+  <description>シルクロードの都市を点々と歩き、砂漠や高山、信仰と食事＝文化に興味を持つ。朝顔・君子蘭・竹などを育てている。</description>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2017-08-23T10:02:03+09:00</dc:date>
+  <dc:language>ja-jp</dc:language>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/cc0efe770fa7994c18275b2522eb6363"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/0161c6228bc664804de0b3e4f057fd50"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/db8fceddbe349750c114f0d41a9fd5a0"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/79a678911d1c6fbc7d85f009a93e41c7"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/6d4d2f44fa4d8c239903fdca4eade14c"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/6911d623eef95f317368724f351d5186"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/7b7e1cb5a920b25e79ca64d3dafe1297"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/e51028be29dd0173614cd6bbfd4ec8e1"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/6ccab820072854873d0716a736a433d8"/>
+    <rdf:li rdf:resource="https://blog.goo.ne.jp/banbatane/e/3e9264ec2ee1fbcddc5b351a1852f745"/>
+   </rdf:Seq>
+  </items>
+ </channel>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/cc0efe770fa7994c18275b2522eb6363">
+  <title>南中卒の皆さんとヽ(*ﾟ∀ﾟ*)ﾉ─♪♪</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/cc0efe770fa7994c18275b2522eb6363?fm=rss</link>
+  <description>かっての生徒さんたちと会いました（*^-^*)
+次は5年後とか、出席できますか？</description>
+  <dc:subject>現役時代の思い出</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2017-08-23T09:59:22+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/0161c6228bc664804de0b3e4f057fd50">
+  <title>&#039;17.8.桔梗咲朝顔</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/0161c6228bc664804de0b3e4f057fd50?fm=rss</link>
+  <description>久しぶりに咲きました（*^-^*)
+自家採取の種の管理がアバウトなので。</description>
+  <dc:subject>朝顔</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2017-08-23T09:56:35+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/db8fceddbe349750c114f0d41a9fd5a0">
+  <title>Mr.Yamaoka </title>
+  <link>https://blog.goo.ne.jp/banbatane/e/db8fceddbe349750c114f0d41a9fd5a0?fm=rss</link>
+  <description>Very very long ago!
+大昔の生徒さんです。
+パソコンの不具合で長らくＵＰできませんでした。
+Windows10で何もかも初期化？されてしまったのです(;_;</description>
+  <dc:subject>現役時代の思い出</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2017-08-22T23:45:49+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/79a678911d1c6fbc7d85f009a93e41c7">
+  <title>台北-2015年最後の旅-九扮（きゅうふん）2</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/79a678911d1c6fbc7d85f009a93e41c7?fm=rss</link>
+  <description></description>
+  <dc:subject>シルクロードの旅--中国</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2016-08-21T16:37:02+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/6d4d2f44fa4d8c239903fdca4eade14c">
+  <title>旅の歴史　21～</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/6d4d2f44fa4d8c239903fdca4eade14c?fm=rss</link>
+  <description>ザックの＜レイ＞は、ネパール空港でもらった。21　KIX・香港・シンガポール・バンコク・香港・タイペイ・KIX 　　’　　　　　　99.12.15~19 　　アジアマイルの達成・10万マイルの獲得 　　（？　上海・昆明 延期 UAのボーナス ）22 2000.7.28 　　ソウル 　　　買...</description>
+  <dc:subject>世界一周・旅の歴史</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2016-08-21T16:35:15+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/6911d623eef95f317368724f351d5186">
+  <title>台北-2015年最後の旅-九扮（きゅうふん）</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/6911d623eef95f317368724f351d5186?fm=rss</link>
+  <description>台北の夜の観光。
+九&#20221;（きゅうふん、ジォウフェン）は、台湾北部の港町基隆の近郊、
+新北市瑞芳区に位置する山あいに。
+九&#20221;のいわれは、
+昔、この山からふもとの町に買いものに。
+どの店でも＜９個＞買ったという
+九&#20221;の街並みは日本統治時代の面影を色濃くとどめる。
+当時の酒家（料理店）などの建物が多数...</description>
+  <dc:subject>シルクロードの旅--中国</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2015-12-17T17:59:45+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/7b7e1cb5a920b25e79ca64d3dafe1297">
+  <title>小籠包-台北-2015年最後の旅-</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/7b7e1cb5a920b25e79ca64d3dafe1297?fm=rss</link>
+  <description>超有名な＜小籠包＞の店で夕食。&lt;鼎泰豐（ディンタイフォン）&gt;
+看板の人形は、一瞬キティちゃん？と思いましたが、蒸籠を持っていました (●^o^●)
+大変美味でした。厨房では白衣の職人が３０人近くぎっしりと並んで包んでいました。
+はじめは、
+一人５個、次からは一人１個と包んだ＜餡＞の違うものが出てきましたが、
+熱くてかみしめ、違いを確かめるまではできませんでした！
+資料
+鼎泰豐（ディンタイフォン）は小籠包が看板メニューの点心料理...</description>
+  <dc:subject>シルクロードの旅--中国</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2015-12-17T15:49:21+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/e51028be29dd0173614cd6bbfd4ec8e1">
+  <title>&#039;15.11の君子蘭</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/e51028be29dd0173614cd6bbfd4ec8e1?fm=rss</link>
+  <description>君子蘭を玄関に出しました。
+朝顔から君子蘭。
+来年の春まで、見守ります。</description>
+  <dc:subject>君子蘭</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2015-11-26T13:15:38+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/6ccab820072854873d0716a736a433d8">
+  <title>牡蠣の星で生ガキ</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/6ccab820072854873d0716a736a433d8?fm=rss</link>
+  <description>入善（富山県）の深層水を使っての＜生ガキ＞を食べました。
+産地もいろいろあって、深層水で浄化？しているそうです。
+豪州産もあった (◎_◎)
+沢山のお客で、待ち時間も。
+深層水から作った＜入善の塩＞を買いました。
+ </description>
+  <dc:subject>食べ物</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2015-10-17T23:20:35+09:00</dc:date>
+ </item>
+ <item rdf:about="https://blog.goo.ne.jp/banbatane/e/3e9264ec2ee1fbcddc5b351a1852f745">
+  <title>イチジク</title>
+  <link>https://blog.goo.ne.jp/banbatane/e/3e9264ec2ee1fbcddc5b351a1852f745?fm=rss</link>
+  <description>今年は豊作でした(＊^－^＊)
+毎日７.８個、収穫です、多いときは１２個も (◎_◎)
+朝食後やおやつに食べます。
+晴天が続いたのと春先の剪定を専門家に頼んだ所為だと思います。
+梯子を使って採っています。</description>
+  <dc:subject>畑の作物</dc:subject>
+  <dc:creator>banbatane</dc:creator>
+  <dc:date>2015-10-17T23:12:55+09:00</dc:date>
+ </item>
+</rdf:RDF>
